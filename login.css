@@ -1,0 +1,25 @@
+h1{
+    text-align:center; padding:20px; font-size:44px;
+    }
+    h2{
+    text-align:center; padding:20px;
+    
+    }
+    h3 {
+    margin-left:700px;
+    }
+    .register{ background:grey; width:500px;
+    margin:0px 0px 0px 430px; color:yellow;
+    font-size:72; padding:20px; border-radius:30px;
+    
+    }
+    #register{
+    margin-left:160px;
+    }
+    a{
+    color:yellow;
+    }
+    body{
+    background-image:url("register2.jpg"); background-attachment: fixed; background-size: cover;
+    }
+    
